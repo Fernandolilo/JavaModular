@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-Modular.iml" filepath="$PROJECT_DIR$/Java-Modular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.systempro.core/com.systempro.core.iml" filepath="$PROJECT_DIR$/com.systempro.core/com.systempro.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.systempro.util/com.systempro.util.iml" filepath="$PROJECT_DIR$/com.systempro.util/com.systempro.util.iml" />
+    </modules>
+  </component>
+</project>
